@@ -21,7 +21,7 @@ Here's what I'm up to
 - 🎮  **I'm Currently Playing:** Mass Effect Trilogy (PS5), Disco Elysium (PS5), Tactics Ogre (Switch).
 - 📺  **I'm Currently Watching:** The Last of Us, Ginnie & Georgia
 
-- 🔭  **I’m currently working on** a side project in the Unity game engine, a monster battler that combines isometric battles with Stardew-like farming gameplay.
-- 🌱  **I’m currently learning** C#, Systems Design, OOP Design Patterns.
-- ⚡ **Fun fact:** I created and launched a card game on Kickstarter called Arms & Influence -> [Check It Out](https://www.armsandinfluence.com/)
-- 📫 **How to reach me:** I'm thedrewprint on all platforms. 
+- 🔭  **I’m Currently Working On:** a side project in the Unity game engine, a monster battler that combines isometric battles with Stardew-like farming gameplay.
+- 🌱  **I’m Currently Learning:** C#, Systems Design, OOP Design Patterns.
+- ⚡ **Fun Fact:** I created and launched a card game on Kickstarter called Arms & Influence -> [Check It Out](https://www.armsandinfluence.com/)
+- 📫 **How To Reach Me:** I'm thedrewprint on all platforms. 
