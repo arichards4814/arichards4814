@@ -19,7 +19,7 @@ Here's what I'm up to
 
 
 - 🎮  **I'm Currently Playing:** God of War: Ragnorak (PS5)
-- 📺  **I'm Currently Watching:** The Last of Us, Ginnie & Georgia
+- 📺  **I'm Currently Watching:** The Last of Us
 
 - 🔭  **I’m Currently Working On:** a side project in the Unity game engine, a monster battler that combines isometric battles with Stardew-like farming gameplay.
 - 🌱  **I’m Currently Learning:** C#, Systems Design, OOP Design Patterns.
