@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-I'm Andrew, full stack developer living in Brooklyn, NY. I love coding, and gaming.
+I'm Andrew, full stack developer living in Brooklyn, NY. I love coding, gaming, pinball and much more.
 
 Here's what I'm up to
 
