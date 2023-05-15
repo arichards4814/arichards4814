@@ -18,7 +18,7 @@ Here's what I'm up to
 
 
 
-- 🎮  **I'm Currently Playing:** God of War: Ragnarök (PS5)
+- 🎮  **I'm Currently Playing:** Zelda: Tears of the Kingdom
 - 📺  **I'm Currently Watching:** Yellow Jackets
 
 - 🔭  **Side Projects I’m Currently Working On:** Unity projects, OpenAI GPT Projects.
