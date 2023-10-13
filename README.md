@@ -20,7 +20,7 @@ Here's what I'm up to
 
 - 🎮  **I'm Currently Playing:** Baulders Gate 3 ⚔️ Starfield 🚀🪐
 - 📺  **I'm Currently Watching:** Only Murders in the Building
-- 📋  **Frameworks I work in professionally** 
+- 📋  **Frameworks I work in professionally:** 
 Angular 12, NestJs - GraphQL(api). 
 - 🔭  **Side Projects I’m Currently Working On:** 
 PlanningPeriod.io an app that helps cut teachers lesson planning time in half using OpenAi.
