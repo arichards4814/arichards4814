@@ -18,10 +18,10 @@ Here's what I'm up to
 
 
 
-- 🎮  **I'm Currently Playing:** Starfield 🚀🪐
+- 🎮  **I'm Currently Playing:** Baulders Gate 3 ⚔️ Starfield 🚀🪐
 - 📺  **I'm Currently Watching:** Only Murders in the Building
 
-- 🔭  **Side Projects I’m Currently Working On:** PlanningPeriod.io an app that helps cut teachers lesson planning time in half.  OpenAI GPT Projects.
-- 🌱  **I’m Currently Learning:** AWS, GPT API.
+- 🔭  **Side Projects I’m Currently Working On:** PlanningPeriod.io an app that helps cut teachers lesson planning time in half using OpenAi.
+- 🌱  **I’m Currently Learning:** AWS
 - ⚡ **Fun Fact:** I created and launched a card game on Kickstarter called Arms & Influence -> [Check It Out](https://www.armsandinfluence.com/)
 - 📫 **How To Reach Me:** I'm thedrewprint on all platforms. [LinkedIn](https://www.linkedin.com/in/andrewmichaelrichards/)
