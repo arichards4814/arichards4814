@@ -18,8 +18,8 @@ Here's what I'm up to
 
 
 
-- 🎮  **I'm Currently Playing:** Baulders Gate 3 ⚔️ Starfield 🚀🪐
-- 📺  **I'm Currently Watching:** Only Murders in the Building
+- 🎮  **I'm Currently Playing:** Baulders Gate 3 ⚔️ D&D 🛡️
+- 📺  **I'm Currently Watching:** The Fall of House Usher
 - 📋  **Frameworks I work in professionally:** 
 Angular 12, NestJs - GraphQL(api). 
 - 🔭  **Side Projects I’m Currently Working On:** 
