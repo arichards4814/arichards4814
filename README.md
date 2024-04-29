@@ -18,8 +18,8 @@ Here's what I'm up to
 
 
 
-- 🎮  **I'm Currently Playing:** Prince of Persia ⚔️ D&D 🛡️
-- 📺  **I'm Currently Watching:** True Detective
+- 🎮  **I'm Currently Playing:** Fallout ☢️
+- 📺  **I'm Currently Watching:** Fallout ☢️
 - 📋  **Frameworks I work in professionally:** 
 Angular 12, NestJs - GraphQL(api). 
 - 🔭  **Side Projects I’m Currently Working On:** 
@@ -27,4 +27,4 @@ PlanningPeriod.io an app that helps cut teachers lesson planning time in half us
 Uses Next.js, serverless backend with AWS Api Gateway + Lambda
 - 🌱  **I’m Currently Learning:** AWS
 - ⚡ **Fun Fact:** I created and launched a card game on Kickstarter called Arms & Influence -> [Check It Out](https://www.kickstarter.com/projects/richardsbroscreative/arms-and-influence)
-- 📫 **How To Reach Me:** I'm thedrewprint on all platforms. [LinkedIn](https://www.linkedin.com/in/andrewmichaelrichards/)
+- 📫 **How To Reach Me:** [LinkedIn](https://www.linkedin.com/in/andrewmichaelrichards/)
