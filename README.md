@@ -18,7 +18,7 @@ Here's what I'm up to
 
 
 
-- 🎮  **I'm Currently Playing:** Fallout ☢️
+- 🎮  **I'm Currently Playing:** Factorio 🏭
 - 📺  **I'm Currently Watching:** Fallout ☢️
 - 📋  **Frameworks I work in professionally:** 
 Angular 12, NestJs - GraphQL(api). 
