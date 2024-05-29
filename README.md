@@ -18,7 +18,7 @@ Here's what I'm up to
 
 
 
-- 🎮  **I'm Currently Playing:** Factorio 🏭 Animal Well 🐇 Tunic 🦊
+- 🎮  **I'm Currently Playing:** Deaths Door 👑 Factorio 🏭 Animal Well 🐇 Tunic 🦊
 - 📺  **I'm Currently Watching:** Fallout ☢️
 - 📋  **Frameworks I work in professionally:** 
 Angular 12, NestJs - GraphQL(api). 
