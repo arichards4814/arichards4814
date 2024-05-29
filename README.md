@@ -21,7 +21,7 @@ Here's what I'm up to
 - 🎮  **I'm Currently Playing:** Deaths Door 👑 Factorio 🏭 Animal Well 🐇 Tunic 🦊
 - 📺  **I'm Currently Watching:** Fallout ☢️
 - 📋  **Frameworks I work in professionally:** 
-Angular 12, NestJs - GraphQL(api). 
+Angular 16, NestJs - GraphQL(api). 
 - 🔭  **Side Projects I’m Currently Working On:** 
 PlanningPeriod.io an app that helps cut teachers lesson planning time in half using OpenAi.
 Uses Next.js, serverless backend with AWS Api Gateway + Lambda
