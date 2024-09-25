@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-I'm Andrew, full stack developer living in Brooklyn, NY. I love coding, gaming, pinball and much more.
+I'm Andrew, full stack developer living in Philadelphia, PA. I love coding, gaming, pinball and much more.
 
 Here's what I'm up to
 
 
-- 🎮  **I'm Currently Playing:** Elden Ring 🪐
+- 🎮  **I'm Currently Playing:** Astro Bot 🪐 Unicorn Overlord 🦄
 - 📺  **I'm Currently Watching:** The Bear Season 3 🐻
 - 📋  **Frameworks I work in professionally:** 
 Angular 16, NestJs - GraphQL(api). 
