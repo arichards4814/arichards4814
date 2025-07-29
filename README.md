@@ -17,10 +17,10 @@ I'm Andrew, full stack developer living in Philadelphia, PA. I love coding, gami
 Here's what I'm up to
 
 
-- 🎮  **I'm Currently Playing:** Astro Bot 🪐 Unicorn Overlord 🦄
-- 📺  **I'm Currently Watching:** The Bear Season 3 🐻
+- 🎮  **I'm Currently Playing:** Too busy making a game to play!! 🪐
+- 📺  **I'm Currently Watching:** Nothing, tell me a show to watch
 - 📋  **Frameworks I work in professionally:** 
-Angular 16, NestJs - GraphQL(api). 
-- 🌱  **I’m Currently Learning:** Java, C#, AWS, Unity Game Engine
+Angular 17, NestJs - GraphQL(api). 
+- 🌱  **I’m Currently Learning:** C#, AWS, Unity Game Engine
 - ⚡ **Fun Fact:** I created and launched a card game on Kickstarter called Arms & Influence -> [Check It Out](https://www.kickstarter.com/projects/richardsbroscreative/arms-and-influence)
 - 📫 **How To Reach Me:** [LinkedIn](https://www.linkedin.com/in/andrewmichaelrichards/)
