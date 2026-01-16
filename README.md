@@ -23,5 +23,5 @@ Here's what I'm up to
 Angular 17, .NET, C#, NestJs - GraphQL. 
 - 🌱  **I’m Currently Learning:** Unity Game Engine
 - ⚡ **Fun Fact:** I created and launched a card game on Kickstarter called Arms & Influence -> [Check It Out](https://www.kickstarter.com/projects/richardsbroscreative/arms-and-influence)
-- 👾 **Game I'm working on: [Play Sketchy Schematics Now!](https://andrewrichardsdev.itch.io/sketchy-schematics-web)
+- 👾 **Game I'm working on:** [Play Sketchy Schematics Now!](https://andrewrichardsdev.itch.io/sketchy-schematics-web)
 - 📫 **How To Reach Me:** [LinkedIn](https://www.linkedin.com/in/andrewmichaelrichards/)
