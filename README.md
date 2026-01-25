@@ -19,9 +19,9 @@ Here's what I'm up to
 
 - 👾 **Game I'm working on:** [Play Sketchy Schematics Now!](https://andrewrichardsdev.itch.io/sketchy-schematics-web)
 - 📺  **I'm Currently Watching:** Any Dropout.tv show
-- 📋  **Frameworks I work in professionally:** 
+- 📋  **Frameworks I've worked in professionally:** 
 Angular, .NET, NestJs - GraphQL. 
 - 🌱  **I’m Currently Learning:** Unity Game Engine
 - ⚡ **Fun Fact:** I created and launched a card game on Kickstarter called Arms & Influence -> [Check It Out](https://www.kickstarter.com/projects/richardsbroscreative/arms-and-influence)
-- 🎮  **I'm Currently Playing:** Too busy making a game to play!! 🪐
+- 🎮  **I'm Currently Playing:** Too busy making games to play!! 🪐
 - 📫 **How To Reach Me:** [LinkedIn](https://www.linkedin.com/in/andrewmichaelrichards/)
